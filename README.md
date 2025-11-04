@@ -34,7 +34,7 @@ I’m currently on an exciting journey transitioning from healthcare support to 
 ## 🤝 Let’s Connect
 
 📧 [Email me](oluwatobiafeez8@gmail.com)  
-💼 [LinkedIn]((https://www.linkedin.com/in/afeez-oluwatobi/))  
+💼 [LinkedIn](https://www.linkedin.com/in/afeez-oluwatobi/)  
 📊 [Kaggle](https://kaggle.com/) (coming soon)
 
 ---
